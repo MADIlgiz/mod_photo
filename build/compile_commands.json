@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/home/ilgiz/CodeProjects/mod_photo/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/ilgiz/NEWretkslp/retk2 -I/home/ilgiz/NEWretkslp/apks_slp -I../  -g   -o CMakeFiles/mod_photo.dir/main.cpp.o -c /home/ilgiz/CodeProjects/mod_photo/main.cpp",
+  "file": "/home/ilgiz/CodeProjects/mod_photo/main.cpp"
+},
+
+{
+  "directory": "/home/ilgiz/CodeProjects/mod_photo/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/ilgiz/NEWretkslp/retk2 -I/home/ilgiz/NEWretkslp/apks_slp -I../  -g   -o CMakeFiles/mod_photo.dir/Programm.cpp.o -c /home/ilgiz/CodeProjects/mod_photo/Programm.cpp",
+  "file": "/home/ilgiz/CodeProjects/mod_photo/Programm.cpp"
+},
+
+{
+  "directory": "/home/ilgiz/CodeProjects/mod_photo/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/ilgiz/NEWretkslp/retk2 -I/home/ilgiz/NEWretkslp/apks_slp -I../  -g   -o CMakeFiles/mod_photo.dir/PWM.cpp.o -c /home/ilgiz/CodeProjects/mod_photo/PWM.cpp",
+  "file": "/home/ilgiz/CodeProjects/mod_photo/PWM.cpp"
+},
+
+{
+  "directory": "/home/ilgiz/CodeProjects/mod_photo/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/ilgiz/NEWretkslp/retk2 -I/home/ilgiz/NEWretkslp/apks_slp -I../  -g   -o CMakeFiles/mod_photo.dir/dbc_client.cpp.o -c /home/ilgiz/CodeProjects/mod_photo/dbc_client.cpp",
+  "file": "/home/ilgiz/CodeProjects/mod_photo/dbc_client.cpp"
+}
+]

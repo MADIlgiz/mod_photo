@@ -1,0 +1,11 @@
+TOOLPATH="/opt/gcc-arm-10.2-2020.11-x86_64-aarch64-none-linux-gnu/bin"
+TOOLPREF="aarch64-none-linux-gnu"
+TOOL=$TOOLPATH/$TOOLPREF
+export CC=$TOOL-gcc
+export CXX=$TOOL-g++
+export AR=$TOOL-ar
+export AS=$TOOL-as
+export LD=$TOOL-ld
+export PLATFORM="_armv7"
+./premake5 --file=buildforkhadas.lua gmake
+make config=debug
